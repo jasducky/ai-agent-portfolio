@@ -1,8 +1,19 @@
 # 🧠 AI Agent Portfolio
 
-Welcome to my collection of intelligent AI agents designed to streamline workflows, automate repetitive tasks, and enhance productivity across various domains. Each agent is crafted to solve specific business challenges through smart automation and AI-powered insights.
+Welcome to my collection of intelligent AI agents designed to streamline workflows, automate repetitive tasks, and enhance productivity across various domains. Each agent is crafted to solve specific business challenges through the power of artificial intelligence.
 
 ---
+
+## 👋 About Me
+
+I'm **Julia Druck**, an AI Strategy & Product Leader with 10+ years of experience transforming digital products across financial, insurance, and utility industries. As a **Certified MindStudio AI Agent Developer** and current **Chief Product Officer at Serpin**, I specialise in bridging the gap between AI technology and measurable business value.
+
+🎯 **My approach is simple**: while others lead with technology, I lead with outcomes. My product management foundation ensures every AI solution directly addresses real business challenges and delivers value that customers actually use.
+
+🚀 I translate complex AI capabilities into business language that executives understand, while ensuring technical teams build practical, production-ready solutions.
+
+✨ These AI agents represent my expertise in creating user-centric AI products that drive adoption and ROI—moving beyond proof-of-concepts to systems that deliver real business impact.
+
 
 ## 🚀 Featured AI Agents
 
